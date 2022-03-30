@@ -51,7 +51,7 @@ table {
 
 *{
     box-sizing: border-box;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     max-width: 100%;
 }
 
@@ -151,6 +151,7 @@ nav a{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top center;
+    padding: 12.5%;
 }
 
 footer{
